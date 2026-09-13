@@ -16,7 +16,7 @@ export function BookCard({ book }: BookCardProps) {
   return (
     <View style={styles.card}>
 
-      {/* Ảnh + Badge */}
+  
       <View style={styles.coverContainer}>
 
         <Image
